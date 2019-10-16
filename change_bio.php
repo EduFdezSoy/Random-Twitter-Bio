@@ -11,7 +11,7 @@ $access_token_secret = "those";
 // where are the sentences?
 $biosFile = 'bios';
 
-// pick a random one (this excludes .files and .. folder)
+// load the file and pick a random one
 $file = file($biosFile);
 $randIndex = array_rand($file);
 $description = $file[$randIndex];
