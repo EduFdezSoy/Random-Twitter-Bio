@@ -1,4 +1,4 @@
-# Random Twitter Bio [![alt text](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](https://ko-fi.com/EduFdezSoy)
+# Random Twitter Bio [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/EduFdezSoy)
 Change the twitter description/biography programatically
 
 ## How to?
